@@ -1,0 +1,8 @@
+# ninja log v5
+0	882	1685825242614925664	CMakeFiles/system_programming_EX_5_A.dir/Test.cpp.o	dd67773641ca226b
+1	1080	1685710591503531896	CMakeFiles/system_programming_EX_5_A.dir/Demo.cpp.o	609fc90d54bc638d
+14	223	1685825322788414708	build.ninja	8b9d74bc5f649353
+0	1078	1685825395753874162	CMakeFiles/system_programming_EX_5_A.dir/Test.cpp.o	dd67773641ca226b
+2	946	1685868318235198576	CMakeFiles/system_programming_EX_5_A.dir/Test.cpp.o	dd67773641ca226b
+0	6	0	clean	5c7c7d9aa06f62bc
+0	895	1685868387537591471	CMakeFiles/system_programming_EX_5_A.dir/Test.cpp.o	dd67773641ca226b
